@@ -7,7 +7,7 @@ You may reference the following works if you are using our implementation. You a
 
 [2] Moradi, Mohsen. (2021). "On Sequential Decoding Metric Function of PolarizationAdjusted Convolutional (PAC) Codes.” IEEE Transactions on Communications (DOI 10.1109/TCOMM.2021.3111018).
 
-[3] Moradi, M., Mozammel, A. (2022). "A Tree Pruning Technique for Decoding Complexity Reduction of Polar Codes and PAC Codes." Submitted to the IEEE Transactions on Communications.
+[3] Moradi, M., Mozammel, A. (2021). "A Tree Pruning Technique for Decoding Complexity Reduction of Polar Codes and PAC Codes.” arXiv preprint arXiv:2207.11946.
 
 [4] Moradi, M., Mozammel, A., Qin, K., and Arıkan, E. (2020). "Performance and Complexity of Sequential Decoding of PAC Codes." arXiv preprint arXiv:2012.04990.
 
